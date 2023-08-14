@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CatLava
-- 👀 I’m interested in Cybersecurity and crypto - 
-- 🌱 I’m currently learning Rust and Smart Contracts
+- 👀 I’m interested in Cybersecurity and data science - 
+- 🌱 I’m currently and always learning Rust, Python, data science and cloud ops.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ; what? I'm a dog on the internet
 
